@@ -175,12 +175,8 @@ function App() {
               </p>
               <div className="mb-8 grid grid-cols-2 gap-4">
                 <div>
-                  <p className="text-3xl font-bold text-indigo-600">50+</p>
+                  <p className="text-3xl font-bold text-indigo-600">5+</p>
                   <p className="text-gray-600">Happy Projects</p>
-                </div>
-                <div>
-                  <p className="text-3xl font-bold text-indigo-600">30+</p>
-                  <p className="text-gray-600">Smiling Clients</p>
                 </div>
               </div>
               <div className="flex space-x-4">
